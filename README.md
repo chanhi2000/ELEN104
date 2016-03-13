@@ -2,7 +2,7 @@
 Electromagnatics 1
 
 ## COURSE CONTENT
-This course covers the fundamentals of Electromagnetics that are applied in Electrical Engineering. The starting point is to learn about vectors, vector calculus and coordinate systems. This know-how provides the necessary tool to understand and visualize Electromagnetic fields and forces. Fundamental topics in Electrostatics including coulomb, Faraday and Gauss’s laws, resistance, capacitance, electric potential and energy are discussed. This is followed by principles of Magnetostatics covering Biot-Savart’ s and Ampere’ s laws, leading to inductance and Faraday’s law and magnetic energy. Maxwell’s equations in static and time varying regimes, and transmission lines and wave propagation concepts are introduced. aa
+This course covers the fundamentals of Electromagnetics that are applied in Electrical Engineering. The starting point is to learn about vectors, vector calculus and coordinate systems. This know-how provides the necessary tool to understand and visualize Electromagnetic fields and forces. Fundamental topics in Electrostatics including coulomb, Faraday and Gauss’s laws, resistance, capacitance, electric potential and energy are discussed. This is followed by principles of Magnetostatics covering Biot-Savart’ s and Ampere’ s laws, leading to inductance and Faraday’s law and magnetic energy. Maxwell’s equations in static and time varying regimes, and transmission lines and wave propagation concepts are introduced.
 
 ## COURSE SCHEDULE:
 - week01
